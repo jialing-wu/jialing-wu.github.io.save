@@ -73,7 +73,7 @@ sections:
         - title: Graduate Research Assistant
           company: Engineering for US All.
           company_url: 'https://e4usa.org/'
-          company_logo: org-x
+          company_logo: e4usa-logo
           location: Nashville, TN, U.S.A.
           date_start: '2023-06-01'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Program Coordinator and Teacher
           company: Aiquzhi, NGO
           company_url: ''
-          company_logo: org-x
+          company_logo: aiquzhi-logo
           location: Shanghai, China
           date_start: '2017-07-01'
           date_end: ''
@@ -94,7 +94,7 @@ sections:
         - title: Consultant
           company: Shanton Way Executive Search Co., Ltd.
           company_url: 'http://www.shantonway.com/'
-          company_logo: org-x
+          company_logo: st-logo
           location: Shanghai, China
           date_start: '2017-07-01'
           date_end: '2022-09-01'
