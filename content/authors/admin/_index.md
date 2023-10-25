@@ -118,6 +118,4 @@ highlight_name: true
 ---
 
 Jialing Wu is currently a second-year master student in International Education Policy and Management at Vanderbilt Peabody College. She also holds a bachelor's degree in Mechanical Engineering. Jialing's areas of interest is engineering education and she is now a Graduate Research Assistant at Engineering for Us All
-
-Previously, Jialing served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children. She also worked at a consulting firm and provided human resource strategies for companies in the field of education, consulting, finance, industries, and pharmaceuticals. 
 {style="text-align: justify;"}
