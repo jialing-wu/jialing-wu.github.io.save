@@ -12,4 +12,7 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 
+links:
+  url_pdf: https://drive.google.com/file/d/1xNh2NhuiU4zPjDBua7IDbgT4QJT_Q4jv/view?usp=drive_open
+
 ---
