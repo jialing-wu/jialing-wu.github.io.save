@@ -3,7 +3,7 @@ title: Wind Turbine MATLAB Activities
 summary: Introduce the changes in Wind Turbine MATLAB Activities compared to that in Water Filter.
 tags:
   - Curriculum
-date: "2023-05-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://docs.google.com/presentation/d/1REInz77B-fARuV53jtfD0lmEr52I0vUo/edit#slide=id.g28cd11fdc44_1_365
