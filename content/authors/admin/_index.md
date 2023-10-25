@@ -90,22 +90,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:jialing.wu@vanderbilt.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JialingWu_EER
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+ # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ # - icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jialingwueducation/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-Jialing Wu is currently a second-year master student in International Education Policy and Management at Vanderbilt Peabody College. She also hold a bachelor's degree in Mechanical Engineering. Jialing's areas of interest engineering education and she is now a Graduate Research Assistant at Engineering for Us All
+Jialing Wu is currently a second-year master student in International Education Policy and Management at Vanderbilt Peabody College. She also holds a bachelor's degree in Mechanical Engineering. Jialing's areas of interest is engineering education and she is now a Graduate Research Assistant at Engineering for Us All
 
-Previously, Jialing served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children. She also worked at a consulting firm and provided human resourse strategies for companies in the field of education, consulting, finance, industries, and pharmaceuticals. 
+Previously, Jialing served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children. She also worked at a consulting firm and provided human resource strategies for companies in the field of education, consulting, finance, industries, and pharmaceuticals. 
 {style="text-align: justify;"}
