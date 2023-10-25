@@ -74,7 +74,7 @@ sections:
           company: Engineering for US All.
           company_url: 'https://e4usa.org/'
           company_logo: org-x
-          location: Shanghai, China
+          location: Nashville, TN, U.S.A.
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
