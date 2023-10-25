@@ -100,7 +100,7 @@ sections:
           date_end: '2022-09-01'
           description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals.
     design:
-      columns: '2'
+      columns: '4'
   - block: portfolio
     id: projects
     content:
