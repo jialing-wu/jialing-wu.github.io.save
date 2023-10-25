@@ -2,7 +2,7 @@
 title: "High School Students Perspective on Mathmatical Modeling / abstract submitted"
 authors:
 - admin
-date: "2023-10-30T00:00:00Z"
+date: "2023-10-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
