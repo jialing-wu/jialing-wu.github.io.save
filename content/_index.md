@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Research Assistant 
+          company: Vanderbilt University, Peabody College
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Nashville, TN, U.S.A.
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,30 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Research Assistant
+          company: Engineering for US All.
+          company_url: 'https://e4usa.org/'
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2023-06-01'
+          date_end: ''
+          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals.
+        - title: Program Coordinator and Teacher
+          company: Aiquzhi, NGO
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shanghai, China
+          date_start: '2017-07-01'
+          date_end: ''
+          description: Served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children.
+        - title: Consultant
+          company: Shanton Way Executive Search Co., Ltd.
+          company_url: ''
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2017-07-01'
+          date_end: '2022-09-01'
+          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals.
     design:
       columns: '2'
   - block: portfolio
