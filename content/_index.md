@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
+  # - block: skills
+  #  content:
+  #    title: Skills
+  #    text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  #    username: admin
+  #  design:
+  #    columns: '1'
   - block: experience
     content:
       title: Experience
@@ -118,10 +118,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Researh
+          tag: Research
+        - name: Curriculum
+          tag: Curriculum
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
