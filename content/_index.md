@@ -128,10 +128,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
+# - block: collection
+    # content:
+    ＃ title: Recent Publications
+       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
