@@ -1,5 +1,5 @@
 ---
-title: "High School Students' Perspective on Mathmatical Modeling / abstract submitted"
+title: "High School Students Perspective on Mathmatical Modeling / abstract submitted"
 authors:
 - admin
 date: "2023-10-30T00:00:00Z"
