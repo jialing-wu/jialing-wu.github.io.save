@@ -1,5 +1,5 @@
 ---
-title: Policy Brief: Integrated Engineering Education
+title: Policy Brief of Integrated Engineering Education
 summary: An literature review on the topic of empowering K-12 teachers to meet the Next Generation Science Standards in Professional Development Programs `external_link`.
 tags:
   - Research
