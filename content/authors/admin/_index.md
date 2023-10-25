@@ -17,7 +17,7 @@ last_name: Wu
 superuser: true
 
 # Role/position/tagline
-role: Researcher in Engineering Education
+role: Engineering Education Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,39 +48,39 @@ education:
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Stata
       description: ''
       percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Data Science
-      description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
-      description: ''
-      percent: 40
       icon: database
       icon_pack: fas
-  - name: Hobbies
+    - name: Quantitative METHOD
+      description: ''
+      percent: 90
+      icon: database
+      icon_pack: fas
+    - name: qualitative METHOD
+      description: ''
+      percent: 95
+      icon: database
+      icon_pack: fas
+  - name: GALLUP
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Analytical
         description: ''
         percent: 100
-        icon: cat
+        icon: database
         icon_pack: fas
-      - name: Photography
+      - name: Learner
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: database
+        icon_pack: fas
+      - name: Maximizer
+        description: ''
+        percent: 90
+        icon: database
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,7 +93,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JialingWu_EER
     label: Follow me on Twitter
     display:
       header: true
@@ -117,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jialing Wu is currently a second-year master student in International Education Policy and Management at Vanderbilt Peabody College. She also hold a bachelor's degree in Mechanical Engineering. Jialing's areas of interest engineering education and she is now a Graduate Research Assistant at Engineering for Us All
+
+Previously, Jialing served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children. She also worked at a consulting firm and provided human resourse strategies for companies in the field of education, consulting, finance, industries, and pharmaceuticals. 
 {style="text-align: justify;"}
