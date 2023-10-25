@@ -109,7 +109,7 @@ sections:
       filters:
         folders:
           - project
-      sort_by: - 'Date'
+      sort_by: 'date'
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
