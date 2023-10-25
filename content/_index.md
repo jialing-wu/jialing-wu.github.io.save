@@ -80,8 +80,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Qualitative Research
-              * Curriculum Development
+              * Qualitative Research & ASEE paper
+              * High School Engineering Curriculum Development
               * Teacher Professional Development
         - title: Program Coordinator and Teacher
           company: Aiquzhi, NGO
