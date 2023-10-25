@@ -14,4 +14,6 @@ image:
 links:
 - name: Slides
   url: https://docs.google.com/presentation/d/1REInz77B-fARuV53jtfD0lmEr52I0vUo/edit#slide=id.g28cd11fdc44_1_365
+- name: MATLAB Activities
+  url: https://www.mathworks.com/campaigns/products/computational-thinking-examples.html#
 ---
