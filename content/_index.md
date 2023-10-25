@@ -65,7 +65,7 @@ sections:
         - title: Graduate Research Assistant 
           company: Vanderbilt University, Peabody College
           company_url: ''
-          company_logo: org-gc
+          company_logo: vandy-logo
           location: Nashville, TN, U.S.A.
           date_start: '2023-09-01'
           date_end: ''
