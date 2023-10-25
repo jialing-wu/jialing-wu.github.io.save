@@ -69,12 +69,7 @@ sections:
           location: Nashville, TN, U.S.A.
           date_start: '2023-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: 
         - title: Graduate Research Assistant
           company: Engineering for US All.
           company_url: 'https://e4usa.org/'
@@ -82,7 +77,12 @@ sections:
           location: Shanghai, China
           date_start: '2023-06-01'
           date_end: ''
-          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals.
+          description: |2-
+              Responsibilities include:
+
+              * Qualitative Research
+              * Curriculum Development
+              * Teacher Professional Development
         - title: Program Coordinator and Teacher
           company: Aiquzhi, NGO
           company_url: ''
@@ -93,7 +93,7 @@ sections:
           description: Served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children.
         - title: Consultant
           company: Shanton Way Executive Search Co., Ltd.
-          company_url: ''
+          company_url: 'http://www.shantonway.com/'
           company_logo: org-x
           location: Shanghai, China
           date_start: '2017-07-01'
