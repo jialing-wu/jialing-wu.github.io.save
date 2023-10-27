@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jialing
-last_name: Wu eer
+last_name: Wu
 
 # Status emoji
 # status:
