@@ -81,7 +81,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Qualitative Research & ASEE paper
+              * Qualitative Research & 2024 ASEE
               * High School Engineering Curriculum Development
               * Teacher Professional Development
         - title: Program Coordinator and Teacher
@@ -91,7 +91,7 @@ sections:
           location: Shanghai, China
           date_start: '2017-07-01'
           date_end: ''
-          description: Served as a program coordinator at an NGO in Shanghai, China, implementing project-based lessons to migrant children.
+          description: Served as a program coordinator and teacher at an NGO in Shanghai, China, implementing project-based lessons to migrant children.
         - title: Consultant
           company: Shanton Way Executive Search Co., Ltd.
           company_url: 'http://www.shantonway.com/'
@@ -99,7 +99,7 @@ sections:
           location: Shanghai, China
           date_start: '2017-07-01'
           date_end: '2022-09-01'
-          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals.
+          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals （e.g., McKinsey & Company, Education First, Harrow School).
     design:
       columns: '2'
   - block: portfolio
