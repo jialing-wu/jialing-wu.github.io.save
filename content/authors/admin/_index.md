@@ -25,7 +25,7 @@ organizations:
     url: https://peabody.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include engineering identity, instructional Strategies and advanced technology and quantitative methods in EER.
+bio: A engineering education researcher interested in engineering identity, instructional Strategies and advanced technology and quantitative methods.
 
 # Interests to show in About widget
 interests:
@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEd in International Education Policy and Management
+    - course: M.Ed. in International Education Policy and Management
       institution: Vanderbilt University, Peabody College
       year: Excepted 2024
-    - course: BE in Mechanical Engineering
+    - course: B.Eng. in Mechanical Engineering
       institution: Shanghai University
       year: 2017
 
