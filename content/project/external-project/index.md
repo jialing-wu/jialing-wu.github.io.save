@@ -13,9 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  url_pdf: https://drive.google.com/file/d/1xNh2NhuiU4zPjDBua7IDbgT4QJT_Q4jv/view?usp=drive_open
-
 - name: Methods
   url: https://drive.google.com/file/d/1iDFJQ9-VFysxcr4tzpJmvoJbjhfa4sLj/view?usp=sharing
+
+url_pdf: https://drive.google.com/file/d/1xNh2NhuiU4zPjDBua7IDbgT4QJT_Q4jv/view?usp=drive_open
+
 
 ---
