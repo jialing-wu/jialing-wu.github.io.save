@@ -123,12 +123,18 @@ sections:
           tag: Research
         - name: Curriculum
           tag: Curriculum
-    design:
+    # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      # columns: '1'
+      # view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # flip_alt_rows: false */ 
+    design:
+      columns: '1'
+      view: masonry
+      flip_alt_rows: true
+      background: {}
+      spacing: {padding: [0, 0, 0, 0]}
   - block: collection
     id: publications
     content:
