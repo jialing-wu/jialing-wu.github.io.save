@@ -123,7 +123,7 @@ sections:
           tag: Research
         - name: Curriculum
           tag: Curriculum
-   design:
+     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
