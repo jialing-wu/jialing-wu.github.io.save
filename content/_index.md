@@ -99,7 +99,7 @@ sections:
           location: Shanghai, China
           date_start: '2017-07-01'
           date_end: '2022-09-01'
-          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals （e.g., McKinsey & Company, Education First, Harrow School).
+          description: Provided executive searching strategies for top companies in the field of education, consulting, finance, industries, and pharmaceuticals（e.g., McKinsey & Company, Education First, Harrow School).
     design:
       columns: '2'
   - block: portfolio
