@@ -12,6 +12,6 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 links:
-- name: Slides
+- name: Request Access to Slides
   url: https://docs.google.com/presentation/d/1OkpFfQfpkKk2K52nW1tF8wwpS9yWLR8d/edit#slide=id.p1
 ---
